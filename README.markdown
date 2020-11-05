@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/kjhdoc/index.html>
+-   <https://giellalt.uit.no/lang/kjh/KhakasDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
