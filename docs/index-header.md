@@ -1,7 +1,7 @@
 # Khakas documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-kjh)](https://raw.githubusercontent.com/giellalt/lang-kjh/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-kjh)](https://raw.githubusercontent.com/giellalt/lang-kjh/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-kjh)](https://github.com/giellalt/lang-kjh/issues)
 [![Build status](https://github.com/giellalt/lang-kjh/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-kjh/actions)
 
