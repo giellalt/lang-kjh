@@ -5,11 +5,11 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-kjh)](https://github.com/giellalt/lang-kjh/issues)
 [![Build status](https://github.com/giellalt/lang-kjh/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-kjh/actions)
 
-This page documents the work on the **Khakas language model**. 
+This page documents the work on the [Khakas language model](http://github.com/giellalt/lang-kjh). 
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
 
 # In-source documentation
 
