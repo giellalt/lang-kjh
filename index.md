@@ -7,6 +7,8 @@
 
 This page documents the work on the [Khakas language model](http://github.com/giellalt/lang-kjh). 
 
+Nothing has been done with the model, except a setup of a dummy version.
+
 # Project documentation
 
 * (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
