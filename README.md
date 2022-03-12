@@ -2,7 +2,7 @@ The Khakas morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-kjh)](https://github.com/giellalt/lang-kjh/issues)
-[![Build Status](https://github.com/giellalt/lang-kjh/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-kjh/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-kjh/main/badge.svg)](https://github.com/giellalt/lang-kjh/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-kjh)](https://github.com/giellalt/lang-kjh/blob/main/LICENSE)
 
 This repository contains finite state source files for the Khakas language,
