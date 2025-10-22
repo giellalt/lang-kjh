@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-kjh)](https://github.com/giellalt/lang-kjh/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-kjh)](https://github.com/giellalt/lang-kjh/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-kjh?label=CI)](https://builds.giellalt.org/pipelines/lang-kjh/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the [Khakas language model](http://github.com/giellalt/lang-kjh). 
 
